@@ -1,0 +1,3 @@
+- url: https://github.com/simonw/shot-scraper
+  output: shot.png
+  height: 800
