@@ -1,3 +1,6 @@
 - url: https://github.com/simonw/shot-scraper
   output: shot.png
   height: 900
+- url: https://simonwillison.net/
+  selector: "#bighead"
+  output: shot-selector.png
